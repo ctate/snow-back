@@ -23,4 +23,3 @@ export function createTreePath(ctx: CanvasRenderingContext2D, x: number, y: numb
   ctx.lineTo(x + size/2, y);
   ctx.closePath();
 }
-

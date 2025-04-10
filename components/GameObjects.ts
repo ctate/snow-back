@@ -100,4 +100,3 @@ export class Obstacle {
     ctx.fillRect(this.x - this.width / 2, this.y - this.height, this.width, this.height);
   }
 }
-
